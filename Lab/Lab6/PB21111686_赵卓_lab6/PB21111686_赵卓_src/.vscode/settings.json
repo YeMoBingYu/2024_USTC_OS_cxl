@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "myprintk.h": "c",
+        "userapp.h": "c"
+    }
+}

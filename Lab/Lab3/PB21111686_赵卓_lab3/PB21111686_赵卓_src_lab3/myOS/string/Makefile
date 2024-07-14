@@ -1,0 +1,1 @@
+STRING_OBJS = output/myOS/string/string.o
